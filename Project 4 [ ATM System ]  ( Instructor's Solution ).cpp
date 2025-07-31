@@ -9,6 +9,7 @@ const string ClientsFileName = "Clients.txt";
 void Login();
 void ShowATM_MainMenue();
 void ShowQuickWithdrawScreen();
+void ShowNormalWithdrawScreen();
 
 enum enATM_MainMenueOptions
 {
