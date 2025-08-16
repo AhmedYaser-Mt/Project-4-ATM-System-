@@ -1,6 +1,6 @@
 # 💳 ATM System – C++ Console Application
 
-This repository contains two versions of a fully functional **ATM System** developed in **C++** as part of the  [AbouHadhood Platform](https://programmingadvices.com/). training track by **Dr. Mohamed Abou Hadhoud**.  
+This repository contains two versions of a fully functional **ATM System** developed in **C++** as part of the  [AbouHadhood Platform](https://programmingadvices.com/) training track by **Dr. Mohamed Abou Hadhoud**.  
 The application simulates real-world ATM operations with a focus on usability, clean code, and robust functionality.
 
 ---
